@@ -4,3 +4,4 @@ train.csv
 model*.pth
 kaggle
 sample_test_solution.csv
+testing.ipynb
